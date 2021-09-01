@@ -6,16 +6,16 @@ import PersonCard from './components/PersonCard';
 function App() {
   return (
     <div className="App">
-      <PersonCard firstName = {"Doe,"} lastName = {"Jane"}
+      <PersonCard firstName = {"Doe"} lastName = {"Jane"}
       age = {45} haircolor = {"Black"}
       />
-      <PersonCard firstName = {"Smith,"} lastName = {"John"}
+      <PersonCard firstName = {"Smith"} lastName = {"John"}
       age = {88} haircolor = {"Brown"}
       />
-      <PersonCard firstName = {"Fillmore,"} lastName = {"Millard"}
+      <PersonCard firstName = {"Fillmore"} lastName = {"Millard"}
       age = {50} haircolor = {"Brown"}
       />
-      <PersonCard firstName = {"Smith,"} lastName = {"Maria"}
+      <PersonCard firstName = {"Smith"} lastName = {"Maria"}
       age = {62} haircolor = {"Brown"}
       />
 
